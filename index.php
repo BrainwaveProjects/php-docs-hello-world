@@ -5,4 +5,4 @@ echo "Hello World!";
 
 echo "New additions";
 
-echo 'Change';
+echo 'Changes';
